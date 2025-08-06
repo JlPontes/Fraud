@@ -30,30 +30,6 @@ The script performs the following steps:
 3.  **Compares to Benford's Law**: It compares the found proportions against the expected proportions defined by Benford's Law.
 4.  **Flags Anomalies**: The script identifies a "significant difference" if the found proportion for a digit differs from the expected proportion by more than 1%. It then prints a warning for each such case.
 
-## Getting Started
-
-To run this project, you just need Python 3 installed.
-
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd your-repository-name
-   ```
-
-### Running the Script
-
-Execute the Python script from your terminal.
-
-```sh
-python analysis.py
-```
-*(Assuming you name the file `analysis.py`)*
-
 ## Example Output
 
 When you run the script, you will get the following output, showing the analysis of the data provided in the code:
