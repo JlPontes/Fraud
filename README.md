@@ -38,7 +38,7 @@ To run this project, you just need Python 3 installed.
 
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/JlPontes/Fraud.git](https://github.com/JlPontes/Fraud.git)
+   git clone [https://github.com/jlpontes/fraud.git](https://github.com/jlpontes/fraud.git)
    ```
 2. Navigate to the project directory:
    ```sh
